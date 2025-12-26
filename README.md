@@ -73,11 +73,12 @@ Want to test the models yourself?
 
 I am an aspiring ML Engineer always looking for feedback on my code or a good chat about the latest in AI.
 
-* **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-* **Twitter:** [@YourHandle](https://twitter.com/yourhandle)
+* **LinkedIn:** [LinkedIn Profile](linkedin.com/in/harsh-prajapati-393759296)
+
 
 ---
 
 <p align="center">
-  <i>Built with 💻 and ☕ by [Your Name]</i>
+  <i>Built with 💻 and ☕ by Harsh Prajapati</i>
 </p>
+
