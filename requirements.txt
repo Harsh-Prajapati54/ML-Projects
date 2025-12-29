@@ -4,3 +4,6 @@ numpy
 pandas
 seaborn
 scikit-learn
+
+#Add-Content .gitignore "*.mmap"  this line is for my personal understanding only ,, select the file name or the data type that
+# you need  to ignore while commite or pushing a repo on github
